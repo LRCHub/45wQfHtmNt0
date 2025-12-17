@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "DALMATIAN",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2025-12-17T15:53:16.074052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dalmatian Plantation / Finale",
+      "artist": "Bill Lee",
+      "has_synced": true,
+      "path": "select/01_Dalmatian_Plantation___Finale_Bill_Lee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dalmatian Plantation",
+      "artist": "Bill Lee",
+      "has_synced": true,
+      "path": "select/02_Dalmatian_Plantation_Bill_Lee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dalmatian Painted Mailbox",
+      "artist": "Secondhand Sound",
+      "has_synced": true,
+      "path": "select/03_Dalmatian_Painted_Mailbox_Secondhand_Sound.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dalmatian Love",
+      "artist": "MC 몽",
+      "has_synced": false,
+      "path": "select/04_Dalmatian_Love_MC_몽.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "로반줄아 (로미오를 반대한 줄리엣 아버지) (Feat. Simon Of Dalmatian)",
+      "artist": "MC 몽",
+      "has_synced": true,
+      "path": "select/05_로반줄아_(로미오를_반대한_줄리엣_아버지)_(Feat._Simon_Of_Dalmatian)_MC_몽.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DALMATIAN",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/06_DALMATIAN_PEOPLE_1.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dalmatian Love",
+      "artist": "MC몽",
+      "has_synced": false,
+      "path": "select/07_Dalmatian_Love_MC몽.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "로반줄아 (로미오를 반대한 줄리엣 아버지) (Feat. Simon of Dalmatian)",
+      "artist": "MC몽",
+      "has_synced": true,
+      "path": "select/08_로반줄아_(로미오를_반대한_줄리엣_아버지)_(Feat._Simon_of_Dalmatian)_MC몽.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "07 Dalmatian Love",
+      "artist": "MC Mong",
+      "has_synced": false,
+      "path": "select/09_07_Dalmatian_Love_MC_Mong.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dalmatian Plantation/Finale.wav (Original)",
+      "artist": "The Cast of 101 Dalmatians",
+      "has_synced": false,
+      "path": "select/10_Dalmatian_Plantation_Finale.wav_(Original)_The_Cast_of_101_Dalmatians.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DALMATIAN",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_DALMATIAN_PEOPLE_1.txt"
+    }
+  ]
+}
